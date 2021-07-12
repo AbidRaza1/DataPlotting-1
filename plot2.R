@@ -1,6 +1,6 @@
 
 
-##-------------Plotting Global Active Power(kw) over the period of two days-----------------##
+                                         ##-------------Plotting Global Active Power(kw) over the period of two days-----------------##
 
 
 ## Plotting Scatter plot
