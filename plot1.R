@@ -1,5 +1,5 @@
 
-##--------------Plotting distribution of Global Active Power------------------##
+                                                        ##--------------Plotting distribution of Global Active Power------------------##
 
 ## Converting data tyoe of the dataset
 x<-as.numeric(as.character(df1$Global_active_power))
