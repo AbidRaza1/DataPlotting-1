@@ -1,6 +1,6 @@
 
 
-#-------------------------------------------------------------Plotting Energy Sub metering over the period of two days---------------------------------------------------------#
+         ##------------------------------------------------Plotting Energy Sub metering over the period of two days------------------------------------------##
 
 
 # Plotting line plot
